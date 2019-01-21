@@ -1,5 +1,6 @@
 (^|\.)01.mycoolcasino.com$
 (^|\.) 1-xbet10.com$
+(^|\.) 1-xbet12.com$
 (^|\.) 1-xbet11.com$
 (^|\.)1-xbet13.com$
 (^|\.)1-xbet14.com$
@@ -362,6 +363,7 @@
 (^|\.)astekbet32.com$
 https://01.mycoolcasino.com
 https:// 1-xbet10.com
+https:// 1-xbet12.com
 https:// 1-xbet11.com
 https://1-xbet13.com
 https://1-xbet14.com
